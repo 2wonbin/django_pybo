@@ -1,0 +1,17 @@
+textarea {
+    width: 100%;
+}
+
+input[type="submit"] {
+    margin-top: 10px;
+}
+
+.red {
+    background-color: red;
+    color: white;
+}
+
+.green {
+    background-color: green;
+    color: white;
+}
